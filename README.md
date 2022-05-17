@@ -1,6 +1,22 @@
 # MindMaps
 Backup of Mindmaps for xMind
 
+### REST API
+
+![Rest/API](./Images/rest_api.png)
+
+### React
+
+![React](./Images/react.png)
+
+### HTML/CSS
+
+![html](./Images/html_css.png)
+
+### Javascript
+
+![JS](./Images/js.png)
+
 ### Android development
 
 ![Android](./Images/Android_App.png)
