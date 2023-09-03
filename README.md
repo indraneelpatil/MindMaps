@@ -1,6 +1,10 @@
 # MindMaps
 Backup of Mindmaps for xMind
 
+### Rust
+
+![Rust](./Images/rust.png)
+
 ### REST API
 
 ![Rest/API](./Images/rest_api.png)
